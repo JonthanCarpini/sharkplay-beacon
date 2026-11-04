@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "updated": "2026-11-04",
+  "api": [
+    "http://algoritmo.space:25000",
+    "http://185.205.244.161:25000"
+  ],
+  "pool": [],
+  "alg": "ES256",
+  "sig": "yLaKhae2q2FqonlSJ+gYC7uGv89jECC7ux2ZzcYFROU2ec3vlLLQfPYWwY59gYKfLdHs7Oph8xzrOdUlyXbApw=="
+}
