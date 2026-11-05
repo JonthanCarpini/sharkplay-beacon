@@ -1,11 +1,15 @@
 {
   "v": 1,
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "api": [
+    "http://dtvmain.com:25000"
+  ],
+  "pool": [
+    "http://dtvmanager.com:25000",
+    "http://dtvplayers.com:25000",
     "http://algoritmo.space:25000",
     "http://185.205.244.161:25000"
   ],
-  "pool": [],
   "alg": "ES256",
-  "sig": "yLaKhae2q2FqonlSJ+gYC7uGv89jECC7ux2ZzcYFROU2ec3vlLLQfPYWwY59gYKfLdHs7Oph8xzrOdUlyXbApw=="
+  "sig": "poqTZFgJeMz1HQuiTNWZff6GT91O15bYFZb9owtDqcnaZ9Za31iBnNyQ9fDXNH2IBlFaYLpQuaw0lEskhjZJoA=="
 }
