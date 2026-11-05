@@ -1,15 +1,1 @@
-{
-  "v": 1,
-  "updated": "2026-11-05",
-  "api": [
-    "http://dtvmain.com:25000"
-  ],
-  "pool": [
-    "http://dtvmanager.com:25000",
-    "http://dtvplayers.com:25000",
-    "http://algoritmo.space:25000",
-    "http://185.205.244.161:25000"
-  ],
-  "alg": "ES256",
-  "sig": "poqTZFgJeMz1HQuiTNWZff6GT91O15bYFZb9owtDqcnaZ9Za31iBnNyQ9fDXNH2IBlFaYLpQuaw0lEskhjZJoA=="
-}
+{"v":1,"updated":"2026-11-05","api":["http://dtvmain.com:25000"],"pool":["http://dtvmanager.com:25000","http://dtvplayers.com:25000","http://algoritmo.space:25000","http://185.205.244.161:25000"],"alg":"ES256","sig":"jo+7QZPlTaLyC7NzbDwlj/7zsqxo8xu+Dk5ROkf/JeOYFBlB9/h/GN9jYBGhbPO9mQb6c6FhSeIte7p5KAu3+w==","v2":{"payload":"{\"seq\":1793894551,\"api\":[\"http://dtvmain.com:25000\"],\"pool\":[\"http://dtvmanager.com:25000\",\"http://dtvplayers.com:25000\",\"http://algoritmo.space:25000\",\"http://185.205.244.161:25000\"]}","sig":"vWW1s82dSxzKPv9yz+8lVjUtzmX5u4pz9gSVGzaJp4foy1g1ezKJQ/z8iLxWcIY+56CU6OXIyqi8ulKT6sLgmA=="}}
